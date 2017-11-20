@@ -7,9 +7,8 @@
 Do the following:
 
 ```
-> mkdir youprojectname
-> cd yourprojectname
 > git clone https://github.com/mikeypy/Simple-React-Boilerplate.git
+> cd Simple-React-Boilerplate
 > npm install
 > npm start
 ```
